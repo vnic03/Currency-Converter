@@ -29,7 +29,7 @@ const apiKey = 'YOUR_API_KEY_HERE';
  //API Endpoint
 //The currency conversion is performed using an API request to the Exchange Rate API. The endpoint URL is structured as follows:
 
-const apiEndpoint = `https://v6.exchangerate-api.com/v6/${apiKey}/pair/${fromCurrency}/${toCurrency}/${amount}`;
+const apiEndpoint = `Yor_URL_HERE{apiKey}/pair/${fromCurrency}/${toCurrency}/${amount}`;
 ```
 ## Installation
 
