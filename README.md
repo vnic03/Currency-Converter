@@ -6,7 +6,8 @@
   This project is ideal for travelers, financial analysts, and anyone needing to convert currency efficiently.
 
 ## Visuals
-![Screenshot of the page](https://github.com/vnic03/Currency-Converter/assets/148821206/f7ac2ee7-7b5f-469a-b724-cd0ed4312b77)
+![CuurencyConverterSC](https://github.com/vnic03/Currency-Converter/assets/148821206/87741920-c788-4f3b-bdde-c754b7c11e71)
+
 
 ## Technoligies Used
 
